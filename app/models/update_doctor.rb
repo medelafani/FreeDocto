@@ -1,0 +1,2 @@
+class UpdateDoctor < ApplicationRecord
+end

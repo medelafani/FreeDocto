@@ -1,0 +1,2 @@
+class DoctorsSpecialty < ApplicationRecord
+end
